@@ -1,4 +1,5 @@
 ---------------------Europages Wine Producer Scraper-----------------------------------
+
 This project is a modular web scraping pipeline built for the Digiole internship challenge.
 The goal is to build a "scalable lead generation" tool that gathers contact info (especially emails) for wine producers listed on Europages.
 
@@ -8,6 +9,7 @@ The final output is two CSV files:
 
 
 ---------------------------------Approach----------------------------------------------
+
 
 This pipeline is broken into three small, focused modules that pass data to each other.
 
