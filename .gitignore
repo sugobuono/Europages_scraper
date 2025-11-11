@@ -1,0 +1,19 @@
+__pycache__/
+*.py[cod]
+*.sqlite3
+
+# Virtual environments
+.venv/
+venv/
+env/
+
+# Tooling
+.pytest_cache/
+.mypy_cache/
+
+# Data outputs
+data/**/*.csv
+
+# System files
+.DS_Store
+Thumbs.db
